@@ -280,6 +280,4 @@ Contributions are welcome—fork the repository, improve modules, and showcase y
 
 *Thank you for exploring FoodieLand — where community meets culinary creativity!*
 
-[4]: https://flutter.dev "Flutter"
-[5]: https://pub.dev/packages/get "GetX"
-[6]: https://supabase.com "Supabase"
+---
